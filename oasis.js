@@ -38,3 +38,13 @@ ScrollReveal().reveal(".room-card", {
     ...scrollRevealOption,
     interval: 500,
 })
+
+// ScrollReveal().reveal(".feature-card", {
+//     ...scrollRevealOption,
+//     interval: 500,
+// })
+
+ScrollReveal().reveal(".news-card", {
+    ...scrollRevealOption,
+    interval: 500,
+})
